@@ -20,15 +20,15 @@
   </gazebo>
 
   <gazebo reference="chassis">
-      <material>Gazebo/Grey</material>
+      <material>Gazebo/Orange</material>
     </gazebo>
 
   <gazebo reference="left_wheel">
-    <material>Gazebo/Black</material>
+    <material>Gazebo/Grey</material>
   </gazebo>
 
   <gazebo reference="right_wheel">
-    <material>Gazebo/Black</material>
+    <material>Gazebo/Grey</material>
 </gazebo>
 
 

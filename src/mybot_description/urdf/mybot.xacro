@@ -34,6 +34,7 @@
       <geometry>
         <box size=".4 .2 .1"/>
       </geometry>
+      <material name="orange"/>
     </visual>
 
 
@@ -60,6 +61,7 @@
         <sphere radius="0.05"/>
       </geometry>
     </visual>
+      <material name="grey"/>
   </link>
 
 
@@ -76,6 +78,7 @@
       <geometry>
         <cylinder radius="0.1" length="0.05"/>
       </geometry>
+	<material name="grey"/>
     </visual>
     <inertial>
       <origin xyz="0 0 0" rpy="0 1.5707 1.5707"/>
@@ -101,6 +104,7 @@
       <geometry>
         <cylinder radius="0.1" length="0.05"/>
       </geometry>
+	<material name="grey"/>
     </visual>
     <inertial>
       <origin xyz="0 0 0" rpy="0 1.5707 1.5707"/>
