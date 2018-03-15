@@ -13,7 +13,7 @@ Based on https://github.com/richardw05/mybot_ws.git
 
 ## Requirements:
 ```
-sudo apt-get install ros-kinetic-gazebo
+sudo apt-get install ros-kinetic-gazebo-ros
 
 sudo apt-get install ros-kinetic-turtlebot ros-kinetic-turtlebot-apps ros-kinetic-turtlebot-
 interactions ros-kinetic-turtlebot-simulator ros-kinetic-kobuki-ftdi ros-kinetic-ar-track-
