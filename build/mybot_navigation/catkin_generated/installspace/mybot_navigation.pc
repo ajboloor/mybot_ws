@@ -1,0 +1,8 @@
+prefix=/home/adith-jb/projects/mybot_ws/install
+
+Name: mybot_navigation
+Description: Description of mybot_navigation
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/adith-jb/projects/mybot_ws/install/lib 
+Requires: 
