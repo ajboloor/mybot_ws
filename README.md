@@ -1,10 +1,11 @@
+## Platform for testing ROS and Gazebo
 <p align="center">
   <img src="/media/simple_maze_ros.gif">
 </p>
 
 
-## Platform for testing ROS and Gazebo
-
+## Software Versions
+- Ubuntu: 16.04
 - ROS Version: Kinetic
 - Gazebo Version: 7.11
 
