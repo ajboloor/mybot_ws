@@ -8,3 +8,4 @@
 
 # modified environment variables
 export PWD="/home/adith-jb/projects/mybot_ws/build"
+export ROS_PACKAGE_PATH="/home/adith-jb/projects/test_ws/src:/home/adith-jb/projects/mybot_ws/src:/home/adith-jb/projects/picar_ws/src:/opt/ros/kinetic/share"
