@@ -1,3 +1,8 @@
+<p align="center">
+  <img src="/media/simple_maze_ros.gif">
+</p>
+
+
 ## Platform for testing ROS and Gazebo
 
 - ROS Version: Kinetic
