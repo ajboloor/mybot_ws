@@ -28,6 +28,7 @@ alvar-msgs
 ```
 ## Notes:
 - Changes to CMakeLists may be required before catkin_make
+- Above recorded simulation is speed up 10 times
 
 ## Usage: 
 ### Terminal 1 (Gazebo): 
